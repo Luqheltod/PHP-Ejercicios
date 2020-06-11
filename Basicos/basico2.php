@@ -1,5 +1,6 @@
 <?php
 
+//gsprogramacion.com
 
 $cadena1 = "El ladron me pidio ";
 $cadena2 = "que por favor aceptase su dinero";
