@@ -1,8 +1,6 @@
-1-  Sume dos variables y muestre el resultado 
+1- Defina dos cadenas de caracteres , sumelas y muestre el resultado. 
 
-2- Defina dos cadenas de caracteres , sumelas y muestre el resultado. 
-
-3- Defina una variable con la siguiente cadena "Me sube la bilirrubina"  
+2- Defina una variable con la siguiente cadena "Me sube la bilirrubina"  
 
     .-Cambie todas las r de la cadena por b y muestrela por pantalla. 
 
