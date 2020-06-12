@@ -8,11 +8,15 @@
 
 5 - Resultado siempre 3 . 
     
-    .-Declare una variable con . 
+    .-Piense un numero entero positivo y declare una variable con ese valor. Muestrelo.
 
-    .-Elimine los 5 primeros caracteres de la cadena y muestrela por pantalla.
+    .-Sumale 5 y muestre el resultado
 
-    .-Convierta la primera letra de cada palabra en mayuscula menos la primera de la cadena y muestre el resultado por pantalla. 
+    .-Multiplica el resultado por 2 y restale 4. Muestralo
+
+    .-Divida el resultado entre 2 y restele el numero que pensó inicialmente
+
+    .-Compruebe que el resultado final sea 3. De no ser asi, repase estas instrucciones y su codigo.
     
 
 6 - Cambia el ejercicio 5 para que la variable la genere automaticamente con la funcion mt_rand.
