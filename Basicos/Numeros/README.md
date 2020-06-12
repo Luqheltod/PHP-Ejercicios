@@ -1,10 +1,22 @@
-1- Defina dos cadenas de caracteres , sumelas y muestre el resultado. 
+1 -  Defina dos variables numericas , sumelas y muestre el resultado.
 
-2- Defina una variable con la siguiente cadena "Me sube la bilirrubina"  
+2 - Muestra la potencia de 10 elevado a 5 y la raiz cuadrada de este resultado con solo 3 decimales.
 
-    .-Cambie todas las r de la cadena por b y muestrela por pantalla. 
+3 - Suma dos numeros aleatorios del 1 al 100 y muestra el resultado por pantalla. 
 
-    .-Elimine los 5 primeros caracteres de la cadena y muestrela por pantalla.
+4 - Crea 5 variables con numeros aleatorios cualquiera, muestra en pantalla todos los numeros e indica cual es el menor y el mayor de ellos.
 
-    .-Convierta la primera letra de cada palabra en mayuscula menos la primera de la cadena y muestre el resultado por pantalla. 
+5 - Resultado siempre 3 . 
+    
+    .-Piense un numero entero positivo y declare una variable con ese valor. Muestrelo.
 
+    .-Sumale 5 y muestre el resultado
+
+    .-Multiplica el resultado por 2 y restale 4. Muestralo
+
+    .-Divida el resultado entre 2 y restele el numero que pensó inicialmente
+
+    .-Compruebe que el resultado final sea 3. De no ser asi, repase estas instrucciones y su codigo.
+    
+
+6 - Cambia el ejercicio 5 para que la variable inicial la genere automaticamente con la funcion mt_rand.
