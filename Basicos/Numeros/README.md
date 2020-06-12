@@ -19,4 +19,4 @@
     .-Compruebe que el resultado final sea 3. De no ser asi, repase estas instrucciones y su codigo.
     
 
-6 - Cambia el ejercicio 5 para que la variable la genere automaticamente con la funcion mt_rand.
+6 - Cambia el ejercicio 5 para que la variable inicial la genere automaticamente con la funcion mt_rand.
