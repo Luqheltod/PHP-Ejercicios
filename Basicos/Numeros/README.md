@@ -1,6 +1,6 @@
-1-  Defina dos variables numericas , sumelas y muestre el resultado.
+1 -  Defina dos variables numericas , sumelas y muestre el resultado.
 
-2- Muestra la potencia de 10 elevado a 4 y la raiz cuadrada de este resultado.
+2 - Muestra la potencia de 10 elevado a 4 y la raiz cuadrada de este resultado.
 
 3 - Suma dos numeros aleatorios del 1 al 100 y muestra el resultado por pantalla. 
 
