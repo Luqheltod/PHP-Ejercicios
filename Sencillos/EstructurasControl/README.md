@@ -5,4 +5,6 @@
 
 3 - Escribe la tabla de multiplicar de un numero aleatorio del 1 al 9 y ejecuta este codigo 5 veces. 
 
-4 - Divide por 0 10 veces
+4 - Determine una variable aleatoria entre el 0 y el 30. Muestre en pantalla si es mayor , menor de 18 o igual a 18.
+
+5 - 
