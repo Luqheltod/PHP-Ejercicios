@@ -5,4 +5,4 @@
 
 3 - Escribe la tabla de multiplicar de un numero aleatorio del 1 al 9 y ejecuta este codigo 5 veces. 
 
-4 - 
+4 - Divide por 0 10 veces
