@@ -1,5 +1,8 @@
 <?php
 
+
+//1 - Muestre la tabla de multiplicar del 5 con un bucle for. 
+
 //gsprogramacion.com
 
 
