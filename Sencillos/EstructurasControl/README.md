@@ -7,4 +7,4 @@
 
 4 - Determine una variable aleatoria entre el 0 y el 30. Muestre en pantalla si es mayor , menor de 18 o igual a 18.
 
-5 - 
+
