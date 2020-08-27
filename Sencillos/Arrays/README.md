@@ -4,4 +4,4 @@
 
 3- Declara un array con 10 numeros aleatorios , muestralo en pantalla. Ordena el array por orden de mayor a menor y vuelve a mostrarlo .
 
-4-Crea un array con los 5 primeros objetos que veas a tu alrededor. Muestra mediante un bucle for o foreach solo las palabras del array que contengan la letra “a”. 
+4-Crea un array con los 5 primeros objetos que veas a tu alrededor. Muestra mediante un bucle for o foreach solo las palabras del array que contengan la letra “e”. 
