@@ -44,6 +44,7 @@ if(isset($_POST["enviar"])){
         $impuestos= "NO";
     }
     
+    // aqui estamos haciendo una pequeña validacion como anticipo del siguiente apartado
     if(!empty($_POST["nombre"])){
         
      $nombre=    $_POST["nombre"];
