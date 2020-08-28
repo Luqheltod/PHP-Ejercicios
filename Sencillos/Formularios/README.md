@@ -12,7 +12,7 @@
    En la misma pagina indicar el nombre  y su seleccion, si no ha indicado nombre, llamarlo anonimo.
 
 6– Realiza un formulario que solicite nombre y que permita seleccionar hasta 5 lenguajes de programacion que el usuario conoce . 
-   Al pulsar el boton de enviar, mostrar el nombre del usuario y los lenguajes que seleccionó 
+   Al pulsar el boton de enviar, mostrar el nombre del usuario y los lenguajes que seleccionó (tratar como un array el checkbox, si os sentís curiosos, ya que es como se haria realmente)
 
 7- Confeccionar un formulario que solicite el ingreso del nombre de una persona y un control select (en este último permitir 
    la selección de los ingresos mensuales de la persona: 1-1000,1001-3000,>3000)
