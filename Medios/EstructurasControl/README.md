@@ -1,0 +1,1 @@
+1 - Escribir un programa PHP que muestre en pantalla números aleatorios entre 1 y 500 hasta que aparezca un múltiplo de 17.
