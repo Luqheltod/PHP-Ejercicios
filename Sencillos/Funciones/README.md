@@ -1,0 +1,1 @@
+1 - Realiza una funcion a la que se le pasará un array de numeros. La funcion devuelve la media de dichos numeros incluidos en el array.
