@@ -20,4 +20,9 @@ function devuelveMedia($array){
 
 echo devuelveMedia([2,2,2,2]);
 
+
+//otra posible solucion.
+function encuentraMedia($array) {
+    return array_sum($array) / count($array);
+}
 ?> 
