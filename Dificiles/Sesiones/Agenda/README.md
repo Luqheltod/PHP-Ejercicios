@@ -1,4 +1,4 @@
-Debes programar una aplicación para mantener una pequeña agenda en una única página web programada enPHP.
+     Debes programar una aplicación para mantener una pequeña agenda en una única página web programada enPHP.
 		La agenda almacenará únicamente dos datos de cada persona: su nombre y un número de teléfono.
 		Además, no podrá haber nombres repetidos en la agenda.
 		En la parte superior de la página web se mostrará el contenido de la agenda.
