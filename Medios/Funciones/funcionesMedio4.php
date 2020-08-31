@@ -1,5 +1,6 @@
 <?php
 
+//gsprogramacion.com
 
 //Una ciudad quiere saber cuanto tardaria en alcanzar determinada poblacion. Conoce la poblacion inicial, el porcentaje que aumenta
 //al año  y el aumento extra de habitantes que vienen libremente
