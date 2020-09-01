@@ -18,3 +18,5 @@
 5 - Dados dos arrays de strings a1 y a2, realizar una funcion que devuelva un array ordenado por orden afabetico que contenga
     los strings de a1 que se encuentran en cualquier cadena de a2. Ejemplo : a1 = ["ola" , "ando" , "mero"] , a2=["mola" ,"andando" , "esmero", "praxis"]
     devolveria un array = ["ando","mero","ola"] .
+
+6 - Escribe una funcion a la cual se le pase un numero en notacion Romana y devuelva el numero como un integer.
