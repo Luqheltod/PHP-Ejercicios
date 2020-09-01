@@ -14,3 +14,7 @@
     al año  y el aumento extra de habitantes que vienen libremente
     Realiza una funcion con 4 argumentos. Poblacion inicial, porcentaje de aumento, aumento libre, poblacion final. 
     la funcion debe ser capaz de devolver cuantos años serian necesarios para que se alcanze la poblacion final.
+
+5 - Dados dos arrays de strings a1 y a2, realizar una funcion que devuelva un array ordenado por orden afabetico que contenga
+    los strings de a1 que se encuentran en cualquier cadena de a2. Ejemplo : a1 = ["ola" , "ando" , "mero"] , a2=["mola" ,"andando" , "esmero", "praxis"]
+    devolveria un array = ["ando","mero","ola"] .
