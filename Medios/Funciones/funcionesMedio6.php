@@ -1,5 +1,9 @@
 
 <?php 
+//gsprogramacion.com
+
+// Escribe una funcion a la cual se le pase un numero en notacion Romana y devuelva el numero como un integer.
+
 function numeroRomano ($romano) {
   $numero = 0;
   
